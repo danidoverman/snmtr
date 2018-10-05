@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8ad578f9feff5f62c26aacf58d855fd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f12cb37ff048b7f0b435e7e66287cb4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\PixlUI-v1.1.0.aar\d5b5941ee2371764230ac18efd568cfd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7b492802d4ecf37802fde7eb0faf9fc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\05714f345704cd04a0a96e1202542b4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7c9dcf1be7226736bf94c25cdfb05d21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f6ea135f6908e50fd9620f545d5a2ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e2351891982654312ee55a6071542758\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\12b11f87c0000aa95720ed8e019ab1c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a83fa078a06613eec7af2e6c4a9272ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87a7a6ffa59682d1131cf42cc2da1c34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\990a859590cc8738f37dd0e8632c1dbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\93100b194430c8bbdaa266dd1bef04dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6147c78c2d13ef023199ff594067fadb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\56fdf5aae78fa360758663f82554a6af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bfc8f4b766b20a88915d553799728222\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1eb73b280d8f98df17d0225cc51d57a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2fd02981f073b5e55c36f7afc70b9e3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c3cdad96bcada61aa90fd26af2925bd1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e66fee623f104445e1aae87388245c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7f2c37f903908ea08a15d2a470fb5a9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dc341e6dbf0951c306d0b8d25bb03579\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9650f85ff79ee6f30275d88a646250cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2df9ffc44216a01ae010382587d37b00\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5ae76ce35f1141eadaec73f539bc81d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e2cfb0c767aefa26050c0a4ab8006f4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5da5aa5f1061d0832902226225c868f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\07275f000c2f83d90ce2b7465bbca2ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\375868c8f87d39bcddefcf5b274ec63a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:5:22-68
+application
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:6:5-18:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2fd02981f073b5e55c36f7afc70b9e3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2fd02981f073b5e55c36f7afc70b9e3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c3cdad96bcada61aa90fd26af2925bd1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c3cdad96bcada61aa90fd26af2925bd1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2fd02981f073b5e55c36f7afc70b9e3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.dgsnetwork.sonometro.SplashActivity
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:12:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8ad578f9feff5f62c26aacf58d855fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8ad578f9feff5f62c26aacf58d855fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f12cb37ff048b7f0b435e7e66287cb4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f12cb37ff048b7f0b435e7e66287cb4b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\PixlUI-v1.1.0.aar\d5b5941ee2371764230ac18efd568cfd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\PixlUI-v1.1.0.aar\d5b5941ee2371764230ac18efd568cfd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7b492802d4ecf37802fde7eb0faf9fc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7b492802d4ecf37802fde7eb0faf9fc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\05714f345704cd04a0a96e1202542b4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\05714f345704cd04a0a96e1202542b4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7c9dcf1be7226736bf94c25cdfb05d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7c9dcf1be7226736bf94c25cdfb05d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f6ea135f6908e50fd9620f545d5a2ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f6ea135f6908e50fd9620f545d5a2ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e2351891982654312ee55a6071542758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e2351891982654312ee55a6071542758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\12b11f87c0000aa95720ed8e019ab1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\12b11f87c0000aa95720ed8e019ab1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a83fa078a06613eec7af2e6c4a9272ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a83fa078a06613eec7af2e6c4a9272ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87a7a6ffa59682d1131cf42cc2da1c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87a7a6ffa59682d1131cf42cc2da1c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\990a859590cc8738f37dd0e8632c1dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\990a859590cc8738f37dd0e8632c1dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\93100b194430c8bbdaa266dd1bef04dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\93100b194430c8bbdaa266dd1bef04dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6147c78c2d13ef023199ff594067fadb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6147c78c2d13ef023199ff594067fadb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\56fdf5aae78fa360758663f82554a6af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\56fdf5aae78fa360758663f82554a6af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bfc8f4b766b20a88915d553799728222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bfc8f4b766b20a88915d553799728222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1eb73b280d8f98df17d0225cc51d57a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1eb73b280d8f98df17d0225cc51d57a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2fd02981f073b5e55c36f7afc70b9e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2fd02981f073b5e55c36f7afc70b9e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c3cdad96bcada61aa90fd26af2925bd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c3cdad96bcada61aa90fd26af2925bd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e66fee623f104445e1aae87388245c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e66fee623f104445e1aae87388245c8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7f2c37f903908ea08a15d2a470fb5a9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7f2c37f903908ea08a15d2a470fb5a9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dc341e6dbf0951c306d0b8d25bb03579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\dc341e6dbf0951c306d0b8d25bb03579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9650f85ff79ee6f30275d88a646250cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9650f85ff79ee6f30275d88a646250cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2df9ffc44216a01ae010382587d37b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2df9ffc44216a01ae010382587d37b00\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5ae76ce35f1141eadaec73f539bc81d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5ae76ce35f1141eadaec73f539bc81d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e2cfb0c767aefa26050c0a4ab8006f4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e2cfb0c767aefa26050c0a4ab8006f4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5da5aa5f1061d0832902226225c868f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5da5aa5f1061d0832902226225c868f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\07275f000c2f83d90ce2b7465bbca2ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\07275f000c2f83d90ce2b7465bbca2ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\375868c8f87d39bcddefcf5b274ec63a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dani_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\375868c8f87d39bcddefcf5b274ec63a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dani_\Documents\ProyectoAndroid\Sonometro\app\src\main\AndroidManifest.xml
